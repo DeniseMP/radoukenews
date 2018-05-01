@@ -1,0 +1,66 @@
+/* bootstrap navbar */
+
+.navbar-default{
+
+	background-color: #C2E5F5;
+	border: none;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+
+	background-color: #A3DAF3;
+
+}
+
+.login{
+
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin-top: 3em;
+	margin-right: 3em;
+}
+
+.carousel{
+
+	width: 70%;
+	margin-left: 15%;
+	position: relative;
+}
+
+.row{
+
+	padding-top: 2em;
+	max-width: 99%;
+	position: relative;
+}
+
+.titulo{
+
+	padding-bottom: 1em;
+	font-weight: bold;
+}
+
+.artigo{
+
+	color: #374045;
+	background-color: #C2E5F5;
+	text-align: center;
+}
+
+.col-md-4, .col-xs-12{
+
+	text-align: center;
+	/*border: 1px solid #A3DAF3; */
+}
+
+
+
+footer{
+
+background-color: #C2E5F5;
+width: 99%
+padding-top: 2em;
+
+
+}
